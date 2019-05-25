@@ -1,0 +1,7 @@
+Kundennummer; Kundentyp; Name; Kontostand 
+177;Privatkunde;Alfons Frise;[[IBAN: DE41500105170123456787, Kontostand: 18.582,00 €]]
+54;Geschäftskunde;Angolffirma KG;[[IBAN: DE41500105170123456181, Kontostand: 208.840,00 €]]
+15;Privatkunde;Berter Langbein;[[IBAN: DE41500105170123456681, Kontostand: 38.445,00 €], [IBAN: DE4150010517012345694, Kontostand: 194.353,00 €], [IBAN: DE41500105170123456183, Kontostand: 49.961,00 €]]
+262;Geschäftskunde;Peterfirma UG;[[IBAN: DE4150010517012345671, Kontostand: 42.266,00 €]]
+228;Privatkunde;Serter Tangbein;[[IBAN: DE41500105170123456592, Kontostand: 264.288,00 €], [IBAN: DE41500105170123456111, Kontostand: 17.138,00 €]]
+113;Geschäftskunde;Testfirma GmbH;[[IBAN: DE41500105170123456874, Kontostand: 225.128,00 €], [IBAN: DE41500105170123456763, Kontostand: 198.721,00 €], [IBAN: DE41500105170123456485, Kontostand: 97.550,00 €]]
